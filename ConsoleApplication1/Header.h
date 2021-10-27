@@ -1,6 +1,6 @@
 #pragma once
-#ifndef FUNCTIONS_H
-#define	FUNCTIONS_h
+#ifndef HEADER_H
+#define	HEADER_H
 
 /**Assessment for AG Leader | Alphanumeric Encoder program
 
